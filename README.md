@@ -6,6 +6,9 @@ It is an Android application which using Room database and follow MVVM architect
 2. Update photo
 3. Delete photo
 
+#### Uses-permission:
+1.android.permission.READ_EXTERNAL_STORAGE
+
 #### Database:
 Room database (It is abstraction layer over SQLite)
 
